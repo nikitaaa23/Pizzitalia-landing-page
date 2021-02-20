@@ -1,1 +1,2 @@
-Responsive website of a restaurant 'Pizzitalia' using HTML, CSS and JavaScript 
+ #  Responsive Restaurant Website (Pizzitalia)
+  Responsive website of a restaurant using HTML, CSS and JavaScript.
