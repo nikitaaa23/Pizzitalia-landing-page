@@ -1,2 +1,9 @@
- #  Responsive Restaurant Website (Pizzitalia)
-  Responsive website of a restaurant using HTML, CSS and JavaScript.
+ #  Pizzitalia
+ 
+ # Description
+ It is a responsive landing page of a restaurant, Pizzitalia.
+
+# Technologies Used
+- HTML
+- CSS
+- JavaScript
