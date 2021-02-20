@@ -1,9 +1,9 @@
- #  Pizzitalia
+ #  **Pizzitalia**
  
- # Description
+ ## Description
  It is a responsive landing page of a restaurant, Pizzitalia.
 
-# Technologies Used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
